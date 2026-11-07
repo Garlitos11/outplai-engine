@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+requests
+nba_api
+pillow
+gunicorn
